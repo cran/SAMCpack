@@ -1,7 +1,7 @@
 Package: SAMCpack
 Type: Package
 Title: Stochastic Approximation Monte Carlo (SAMC) Sampler and Methods
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Yichen","Cheng",role="aut",email="ycheng11@gsu.edu"),
              person("Ick Hoon","Jin", role = "aut", email="IckHoon.Jin.32@nd.edu"),
              person("Faming","Liang", role = "aut", email = "fmliang@purdue.edu"),
@@ -18,11 +18,11 @@ Suggests: knitr, rmarkdown, microbenchmark, pander, geoR, RandomFields
 VignetteBuilder: knitr
 RdMacros: Rdpack
 NeedsCompilation: yes
-Packaged: 2018-10-16 17:45:00 UTC; kisung
+Packaged: 2018-10-26 01:46:52 UTC; kisung
 Author: Yichen Cheng [aut],
   Ick Hoon Jin [aut],
   Faming Liang [aut],
   Kisung You [aut, cre]
 Maintainer: Kisung You <kyou@nd.edu>
 Repository: CRAN
-Date/Publication: 2018-10-24 22:20:03 UTC
+Date/Publication: 2018-10-26 08:30:07 UTC
